@@ -36,6 +36,16 @@
 *.iml
 out
 gen</template>
+      <template name="bitrix">.idea
+.zip
+.rar
+
+/composer.lock
+
+/bitrix
+/images
+/vendor
+/upload</template>
     </userTemplates>
   </component>
 </application>
