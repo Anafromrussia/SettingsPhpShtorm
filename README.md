@@ -26,4 +26,4 @@ __________________________________________
 /upload
 
 </pre>
-2. <a href="https://plugins.jetbrains.com/plugin/10080-rainbow-brackets">Rainbow Brackets.</a> Плагин который разукрасит в разные цвета пары скобок в разные цвета.
+2. <a href="https://plugins.jetbrains.com/plugin/10080-rainbow-brackets">Rainbow Brackets</a> - плагин который разукрасит в разные цвета пары скобок и сделает код более читабельным.
