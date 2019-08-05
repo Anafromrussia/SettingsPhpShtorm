@@ -1,8 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="fafeb1da-f730-4efc-af4b-792d9e1e02a4" name="vms6.it-delta.ru" url="http://88.198.57.62">
-        <fileTransfer host="88.198.57.62" port="21">
+      <webServer id="fafeb1da-f730-4efc-af4b-792d9e1e02a4" name="vms6.it-delta.ru" url="http://vms6.it-delta.ru">
+        <fileTransfer host="vms6.it-delta.ru" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" showHiddenFiles="true" />
           </advancedOptions>
