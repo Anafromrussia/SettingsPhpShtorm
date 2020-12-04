@@ -8,6 +8,7 @@
       <mapping pattern=".htsecure" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess_back" type="PLAIN_TEXT" />
       <mapping pattern=".fmsettings" type="PLAIN_TEXT" />
+      <mapping pattern="RemainsOfGoods.php" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess.restore" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
