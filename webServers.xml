@@ -17,6 +17,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="32ca60ed-861e-4a32-878d-8fe183f25c40" name="dev10.sant-on.ru" url="http://dev10.sant-on.ru">
+        <fileTransfer host="dev10.sant-on.ru" port="60200" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="60200" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
