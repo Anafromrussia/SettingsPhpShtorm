@@ -14,6 +14,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern=".htaccess_back" type="PLAIN_TEXT" />
+      <mapping pattern="apache" type="PLAIN_TEXT" />
       <mapping pattern=".fmsettings" type="PLAIN_TEXT" />
       <mapping pattern="RemainsOfGoods.php" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa" type="PLAIN_TEXT" />
